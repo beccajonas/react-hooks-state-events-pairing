@@ -10,3 +10,18 @@ body {
 .App {
   text-align: center;
 }
+
+.user-name {
+  font-weight: bold;
+  margin: 0px;
+  color: #007bff; /* Blue color, you can change this to your desired color */
+}
+
+.comment-text {
+  margin: 0px;
+  color: #333; /* Dark text color, you can change this to your desired color */
+}
+
+.commentlist {
+  margin-bottom: 3em;
+}
